@@ -1,0 +1,18 @@
+  @font-face {
+    font-family: Halvar;
+    src: url(/font/HalvarBreit-Bd.ttf);
+    font-weight: 600;
+  }
+
+  @font-face {
+    font-family: Halvar;
+    src: url(/font/HalvarBreit-Md.ttf);
+    font-weight: 500;
+  }
+
+
+  @font-face {
+    font-family: Halvar;
+    src: url(/font/HalvarBreit-Rg.ttf);
+    font-weight: 400;
+  }
